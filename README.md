@@ -1,6 +1,6 @@
 ### README
 
-# RFM Analysis with Python
+# RFM Analysis 
 
 This project is designed to analyze customer purchase behaviors using RFM (Recency, Frequency, Monetary) analysis. By segmenting customers, businesses can gain actionable insights for personalized marketing strategies.
 
